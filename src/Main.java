@@ -1,14 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-//        TODO Homework 14.1
-
-//        Rose rose=new Rose("Golland","Red","Classy");
-//        System.out.println(rose);
-//        rose.blossomed();
-//        rose.withered();
-//        rose.collected();
-
 
 
 //        TODO Homework 14.2
